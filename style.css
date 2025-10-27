@@ -1,3 +1,11 @@
+:root {
+  --r-heading-font: "Noto Sans", sans-serif;
+  --r-main-font: "Noto Sans", sans-serif;
+
+  --r-heading-font-weight: 700;
+   --r-heading-color: #503795;
+}
+
 .reveal {
   color: #4D4D4D;
 }
@@ -9,7 +17,7 @@
 .reveal h5,
 .reveal h6 {
   text-transform: none;
-  color: #4D4D4D;
+  color: #503795;
 }
 
 .reveal h1 { font-size: 2.0em; }
@@ -18,12 +26,12 @@
 .reveal h4 { font-size: 1.3em; }
 
 .reveal a { 
-  color: #F37626;
+  color: #503795;
   text-decoration: underline;
 }
 
 .reveal a:hover { 
-  color: #F37626;
+  color: #503795;
   opacity: 0.8;
 }
 
