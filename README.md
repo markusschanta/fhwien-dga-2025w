@@ -1,4 +1,4 @@
-## Datengewinnung und -analyse W2025/26
+## Datengewinnung und -analyse - 2025 W
 
 This repository contains the lecture materials for the course __Data Processing and Analysis__ at [FH Wien](https://www.fh-wien.ac.at/) for the Fall 2025/26 semester.
 
